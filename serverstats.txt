@@ -1,0 +1,1 @@
+{delete} {user}, check out {server}'s Carbonitex stats at https://www.carbonitex.net/discord/server?s=226782433519992833. Powered by <@109338686889476096>.

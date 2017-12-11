@@ -1,0 +1,7 @@
+{delete}
+{dm:$1}
+**{user} on the {server}, has requested:** `$2+`
+-You may accept or deny the user by going on the server and using the following commands-
+-`.accept <@name>`
+-`.deny <@name> <reason>`
+**Command created by Olybear9**
